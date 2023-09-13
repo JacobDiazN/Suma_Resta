@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Suma_Resta</string>
+    <string name="txt_titulo_sum_resta_String">Suma y Resta</string>
+    <string name="txt_primerValor_String">Ingrese el primer valor</string>
+    <string name="txt_segundoValor_String">Ingrese el segundo valor</string>
+    <string name="rbtn_sumar_String">Sumar</string>
+    <string name="rbtn_restar_String">Restar</string>
+    <string name="txt_resultado_String">Resultado</string>
+    <string name="button_calcular_String">Calcular</string>
+</resources>
